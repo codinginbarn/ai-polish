@@ -1,0 +1,44 @@
+.ai-polish-metabox .spinner.is-active {
+  visibility: visible;
+}
+
+.ai-polish-metabox .spinner {
+  float: none;
+  margin: 0 0 0 8px;
+}
+
+.ai-polish-metabox .ai-polish-flags {
+  margin: 0 0 8px 0;
+}
+
+.ai-polish-metabox .ai-polish-clicks {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 1px 6px;
+  border-radius: 999px;
+  font-size: 11px;
+  line-height: 16px;
+  background: #f0f0f1;
+  color: #1d2327;
+  vertical-align: middle;
+}
+
+.ai-polish-metabox .ai-polish-clicks.is-on {
+  background: #d1e7dd;
+  color: #0f5132;
+}
+
+.ai-polish-status {
+  margin-top: 8px;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.ai-polish-status.is-error,
+.ai-polish-settings-status.is-error {
+  color: #b32d2e;
+}
+
+.ai-polish-settings-status {
+  margin-left: 8px;
+}
